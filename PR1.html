@@ -1,0 +1,15 @@
+<div style="text-align:center;"><img src="df pr1/df logo.png"></div>
+
+<h1 style="font-size:50px; text-align:center;">DARK FANTASY</h1>
+<p style="font-size:20px; text-align:center;">world's NOl:1 choco-biscuit <br> by ITC</p>
+<div style="text-align:center;"><a style="background-color:red;padding: 15px 35px 15px 35px; color:white;" href="https://en.wikipedia.org/wiki/Dark_fantasy">KNOW MORE</a></div>
+
+<hr>
+<h2>Image Gallery</h2>
+<img style="width: 33%;"src=""df pr1/pr1.jpg">
+<img style="width: 33%;" src=""df pr1/pr3.jpg">
+<img style="width: 33%;" src=""df pr1/r2.jpg">
+<hr>
+<h2>Video Resourses</h2>
+<div style="font-size:50px;text-align:center;"><video src="df pr1/prv4.mp4" controls/>
+</div>
